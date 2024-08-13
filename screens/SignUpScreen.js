@@ -53,9 +53,9 @@ const SignUpScreen = ({ navigation }) => {
   return (
     <KeyboardAvoidingView
       behavior={Platform.OS === "ios" ? "padding" : "height"}
-      className="p-10 flex-1"
+      className=" flex-1"
     >
-      <ScrollView className="flex-grow">
+      <ScrollView className="flex-grow p-10">
         <Text className="pt-24 text-3xl text-white font-bold">Sign Up</Text>
         <View>
           <View className="flex-row justify-between">
