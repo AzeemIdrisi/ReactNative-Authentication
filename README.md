@@ -1,7 +1,7 @@
 
 <div align="center">
-    <h1>Sekeron React Native Authentication</h1>
-    <h3>Login and Signup Screens for React Native</h3>
+    <h1>React Native Authentication</h1>
+    <h3>Ready to use Login and Signup Screens for React Native</h3>
       
 </div>
 
